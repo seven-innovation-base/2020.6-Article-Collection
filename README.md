@@ -42,8 +42,8 @@ OK，考核已经开始，更多的东西需要大家自己去探索学习，请
 
 我们从网上掏了几篇解决方案，或许能帮助到你们提高 GitHub 访问速度，请试一试下面的解决方案：
 
-- [不用梯子，如何加速访问github](https://mp.weixin.qq.com/s?src=11&timestamp=1592224164&ver=2401&signature=zO9zogttL7RgupfI4bnpWA9LUD2lZ6MT38fjckFK9GndaWRFTwB6ixZiVLGT0z9wyyUr5CK4o*DDqlgF1rNwmAv-tbRipISm7vYcUP9Q4n9934loEvcc5XPK3UdRf36I&new=1)
-- [国内加速访问Github的办法，超级简单](https://mp.weixin.qq.com/s?src=11&timestamp=1592224164&ver=2401&signature=l4-qul2R82zjdiIXEn5pXxDTi5lsDmlZMU6lKlqCNTiKB1GRUZAAvNGEyPVNy3xEOstzHtkdqs1wsnsU3CA3502P4hu7kmbcW2J8OQHCY1CAzEJvdokjw-u2kkWJ4ogB&new=1)
+- [不用梯子，如何加速访问github](https://mp.weixin.qq.com/s/wWdplzVUe0-AW0N5RkF96Q)
+- [国内加速访问Github的办法，超级简单](https://zhuanlan.zhihu.com/p/65154116)
 
 这两篇文章的解决原理都是一样的，都是通过修改 hosts 文件解决访问速度（解决 DNS 轮询可能带来的链路过长问题等等，涉及到计算机网络的知识）！
 
